@@ -23,6 +23,7 @@ A collection of items found on www.thingiverse.com for 3D printing.
  ## Practical Items
  
  - [Proteus Key Holder](https://www.thingiverse.com/thing:2749745)
+   [The Hive Storage Containers](https://www.thingiverse.com/thing:1743145)
 
 ## For the Shop
  - [Nut, Bolt, Washer and Threaded Rod Factory](https://www.thingiverse.com/thing:193647)
