@@ -17,7 +17,7 @@ A collection of items found on www.thingiverse.com for 3D printing.
 1. Raspberry Pi 3
    - [Anet A8 Raspberry Pi 3 Mount](https://www.thingiverse.com/thing:2215547)
    - [Raspberry Pi Case with VESA Mount](https://www.thingiverse.com/thing:922740)
-   - (Raspberry Pi Blade Center)(https://www.thingiverse.com/thing:2705742)
+   - [Raspberry Pi Blade Center](https://www.thingiverse.com/thing:2705742)
    
    
  ## Practical Items
