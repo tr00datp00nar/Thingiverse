@@ -11,6 +11,7 @@ A collection of items found on www.thingiverse.com for 3D printing.
 - [Anet A8 PS3 Eye Holder](https://www.thingiverse.com/thing:2026324)
 - [Anet A8 Raspberry Pi 3 Mount](https://www.thingiverse.com/thing:2215547)
 - [Anet A8 Power Switch Mount](https://www.thingiverse.com/thing:2320216)
+- [Anet A8 Bed Leveling Thumbwheel](https://www.thingiverse.com/thing:2350276)
 
 ## Raspberry Pi
 
